@@ -49,31 +49,8 @@ the right tool for the job a liberating, creative and rewarding experience.
 ## 📫 Get in touch
 
 * [Twitter]
-* [Facebook]
 * [Linked-in]
-* [Stack Overflow][stackoverflow]
-* [Keybase]
 
-[api-change-strategy]: https://nordicapis.com/api-change-strategy/
-[bitbear]: https://bitbear.org/
-[compositional-uis]: https://youtu.be/Kqb0wepe8dY
-[demoscene]: https://en.wikipedia.org/wiki/Demoscene
-[evolving-ui]: https://youtu.be/sn2IyBL-fbs
-[facebook]: https://facebook.com/asbjornu
-[from-source-to-production]: https://youtu.be/sLhbBrbasvs
-[gitversion]: https://github.com/GitTools/GitVersion
+
 [hydra]: https://www.hydra-cg.com/
-[json-ld.net]: https://github.com/linked-data-dotnet/json-ld.net
-[json-ld]: https://json-ld.org/
-[keybase]: https://keybase.io/asbjornu
-[lang-stats]: https://github-readme-stats.vercel.app/api/top-langs/?username=asbjornu&langs_count=10&hide=Gettext%20Catalog&layout=compact
-[linked-in]: https://linkedin.com/in/asbjornu
-[readme-stats]: https://github.com/anuraghazra/github-readme-stats
-[rest-state-machine-revisited]: https://nordicapis.com/rest-state-machine-revisited/
-[semver]: http://semver.org
-[stackoverflow]: https://stackoverflow.com/users/61818/asbjornu
-[stats]: https://github-readme-stats.vercel.app/api?username=asbjornu&count_private=true&show_icons=true
-[the-rest-and-then-some]: https://youtu.be/QIv9YR1bMwY
-[twitter]: https://twitter.com/asbjornu
-[whats-in-a-model]: https://youtu.be/bRjBUHRxI9g
-[whats-your-problem]: https://youtu.be/ZWIUn5BHDBc
+
