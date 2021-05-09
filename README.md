@@ -4,8 +4,7 @@ Hello, I've been spending my time on algorithms ,math ,physics ,statistics since
 
 ## 📈 Stats
 
-[![Sabit's GitHub stats][stats]][readme-stats]
-[![Sabit's GitHub language stats][lang-stats]][readme-stats]
+[![Sabit's GitHub stats](https://github-readme-stats.vercel.app/api?username=SabitKondakci)](https://github.com/SabitKondakci/readme-stats)
 
 ## 🌱 Skills
 
