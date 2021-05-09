@@ -1,15 +1,6 @@
-# Asbjørn Ulsberg
+# Sabit Kondakçı
 
-Hi, I'm Asbjørn Ulsberg and I've been programming professionally for more than
-20 years and as a hobby for more than 30. I have a passion for software
-architecture and spend a lot of time thinking about modeling and naming things.
-The web has always been close to my heart, so I spend time in IETF and W3C
-working groups to make it better.
-
-When I'm not working, I enjoy spending time with my wife and daughter as well as
-participating in the [demoscene] and making music with my alter ego [Bitbear]. I
-love creativity and continuous improvement, which are two of the driving forces
-that get me out of the bed every morning.
+Hello, I've been spending my time on algorithms ,math ,physics ,statistics since 2010 , loving to be on my computer to design something newfangled and keep contributing to open-source society. 
 
 ## 📈 Stats
 
