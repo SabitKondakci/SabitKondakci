@@ -22,10 +22,7 @@ the right tool for the job a liberating, creative and rewarding experience.
 
 ## 🔭 Projects
 
-* [GitVersion][gitversion], Easy [Semantic Versioning][semver] for projects
-  using Git.
-* [Hydra], a hypermedia format for APIs.
-* [json-ld.net], a .NET implementation of [JSON-LD].
+* I've been working on a Mail Integration&Sorting project which is currently in my private repo , I'll switch to public as soon as possible with CI-CD settings via GitLab.
 
 ## 📫 Get in touch
 
