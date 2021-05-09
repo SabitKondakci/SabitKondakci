@@ -1,6 +1,8 @@
 # Sabit Kondakçı
 
-Hello, I've been spending my time on algorithms ,math ,physics ,statistics since 2010 , loving to be on my computer to design something newfangled and keep contributing to open-source society. 
+Hello, I've been spending my time on algorithms ,math ,physics ,statistics since 2010 , loving to be on my computer to design something newfangled.
+I graduated from university , bachelor of engineering physics in 2015 ,later decided to move further in software field.
+I define myself as full-stack developer which fits right within my qualifications.
 
 ## 📈 Stats
 
@@ -10,35 +12,13 @@ Hello, I've been spending my time on algorithms ,math ,physics ,statistics since
 
 ## 🌱 Skills
 
-I've been working as a backend developer, frontend developer, CTO and architect,
-in all sorts of programming languages, ranging from Visual Basic to C, Perl,
-Ruby, Python, PHP, C#, JavaScript, Bash, etc. I therefore consider myself
-polyglot and "full-stack", whatever that means. I enjoy all parts of
-development, appreciate most programming languages and find the freedom to use
+I've been working as a freelancer, both front-end & back-end in all sorts of programming languages, ranging from Fortran to C#, JavaScript,Windows PowerShell etc. I therefore consider myself polyglot and "full-stack" I enjoy all parts of development, appreciate most programming languages and find the freedom to use
 the right tool for the job a liberating, creative and rewarding experience.
 
-* C#, JavaScript, Ruby
-* REST, HTTP, distributed systems
-* Modeling, Domain-driven design
-
-## 🖋 Writings
-
-* [API Change Strategy][api-change-strategy]
-* [REST State Machine Revisited][rest-state-machine-revisited]
-
-## 💬 Talks
-
-* [The REST And Then Some][the-rest-and-then-some], presented at Nordic
-  APIs Platform Summit 2016.
-* [From Source To Production With Ease][from-source-to-production], presented
-  at DevOps Pro 2018.
-* [Compositional UIs With Hosted Views and Hypermedia][compositional-uis],
-  presented at Nordic APIs Platform Summit 2018.
-* [Evolving compositional user interfaces][evolving-ui],
-  presented at NDC Oslo 2019.
-* [What's Your Problem?][whats-your-problem], presented at Nordic APIs
-  Platform Summit 2019.
-* [What's In A Model?][whats-in-a-model], presented at Øredev 2019.
+* C# .Net , JavaScript, TypeScript, React, Angular, Node
+* HTML5 & CSS3 , Bootstrap 5 ,JQuery
+* Resftul API ,Graph QL
+* Haskell, Rust 
 
 ## 🔭 Projects
 
