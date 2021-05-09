@@ -33,5 +33,5 @@ the right tool for the job a liberating, creative and rewarding experience.
 * [Linked-in]
 
 
-[hydra]: https://www.hydra-cg.com/
+[Twitter]: https://www.twitter.com/@SabitK
 
