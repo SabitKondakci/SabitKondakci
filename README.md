@@ -2,9 +2,7 @@
 
 Merhaba, I've been spending my time on algorithms ,math ,physics ,statistics since 2010 , loving to be on my computer to design something newfangled.
 
-I graduated from university , bachelor of engineering physics in 2015 ,later decided to move further with software.
-
-I define myself as full-stack developer which fits right in for my qualifications.
+I graduated from university , bachelor of engineering physics in 2015 ,later decided to move further with software, define myself as full-stack developer which fits right in for my qualifications.
 
 ## 📈 Stats
 
