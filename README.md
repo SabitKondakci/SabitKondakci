@@ -26,7 +26,7 @@ the right tool for the job a liberating, creative and rewarding experience.
 
 ## 📚 Book Recommendations
 * [Essential COM **by Don Box**][Essential COM]
-* [Design Patterns: Elements of Reusable Object-Oriented Software **by Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides**][Design Patterns]
+* [Design Patterns **by Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides**][Design Patterns]
 * [Data Structures and Algorithms in Python **by Michael T. Goodrich, Roberto Tamassia, Michael H. Goldwasser**][Data Structures]
 
 [Essential COM]:https://books.google.com.tr/books/about/Essential_COM.html?id=kfRWvKSePmAC&redir_esc=y
