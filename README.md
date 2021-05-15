@@ -29,9 +29,9 @@ the right tool for the job a liberating, creative and rewarding experience.
 * [Design Patterns: Elements of Reusable Object-Oriented Software **by Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides**][Design Patterns]
 * [Data Structures and Algorithms in Python **by Michael T. Goodrich, Roberto Tamassia, Michael H. Goldwasser**][Data Structures]
 
-[Essential COM]:https://books.google.com.tr/books/about/Essential_COM.html?id=kfRWvKSePmAC&redir_esc=y "_blank"
-[Design Patterns]:https://www.amazon.com.tr/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612
-[Data Structures]:https://www.bookdepository.com/Data-Structures-and-Algorithms-in-Python-Michael-T.-Goodrich/9781118290279?redirected=true&utm_medium=Google&utm_campaign=Base4&utm_source=TR&utm_content=Data-Structures-and-Algorithms-in-Python&selectCurrency=TRY&w=AFD5AU9SYYG94XA8VRX7
+[Essential COM]:https://books.google.com.tr/books/about/Essential_COM.html?id=kfRWvKSePmAC&redir_esc=y?target=_blank
+[Design Patterns]:https://www.amazon.com.tr/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612?target=_blank
+[Data Structures]:https://www.bookdepository.com/Data-Structures-and-Algorithms-in-Python-Michael-T.-Goodrich/9781118290279?redirected=true&utm_medium=Google&utm_campaign=Base4&utm_source=TR&utm_content=Data-Structures-and-Algorithms-in-Python&selectCurrency=TRY&w=AFD5AU9SYYG94XA8VRX7?target=_blank
 
 ## 📫 Get in touch
 
