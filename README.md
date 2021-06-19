@@ -22,7 +22,7 @@ the right tool for the job a liberating, creative and rewarding experience.
 
 ## 🔭 Projects
 
-* I've been working on a Mail Integration&Sorting project which is currently in my private repo , I'll switch to public as soon as things get ready with CI-CD settings with Jenkins.
+* I've been working on a Mail Integration&Sorting project which is currently in my private repository, I'll switch to public as soon as things get ready with CI-CD settings with Jenkins.
 
 ## 📚 Book Recommendations
 * [Essential COM **by Don Box**][Essential COM]
