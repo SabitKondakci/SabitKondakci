@@ -12,10 +12,10 @@ I graduated from university, bachelor of engineering physics in 2015, later deci
 
 ## 🌱 Skills
 
-I've been working as a freelancer, both front-end & back-end in all sorts of programming languages, ranging from Fortran, Haskell to C# .Net, JavaScript, Node etc. I therefore consider myself polyglot and "full-stack" I enjoy all parts of development, appreciate most programming languages and find the freedom to use
+I've been working as a freelancer, both front-end & back-end in all sorts of programming languages, ranging from Fortran, Haskell to C# .Net, JavaScript etc. I therefore consider myself polyglot and "full-stack" I enjoy all parts of development, appreciate most programming languages and find the freedom to use
 the right tool for the job a liberating, creative and rewarding experience.
 
-* C# .Net , JavaScript, TypeScript, React, Angular, Node
+* C# .Net , JavaScript, TypeScript, React, Angular
 * HTML5 & CSS3 , Bootstrap 5 ,JQuery
 * Resftul API ,Graph QL
 * Haskell, Rust, Windows PowerShell
