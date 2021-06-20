@@ -17,7 +17,7 @@ the right tool for the job a liberating, creative and rewarding experience.
 
 * C# .Net , JavaScript, TypeScript, React, Angular
 * HTML5 & CSS3 , Bootstrap 5 ,JQuery
-* Resftul API ,Graph QL
+* Resftul & GraphQL API
 * Haskell, Rust, Windows PowerShell
 
 ## 🔭 Projects
