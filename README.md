@@ -38,6 +38,6 @@ the right tool for the job a liberating, creative and rewarding experience.
 * [Twitter]
 * [Linked-in]
 
-
+ 
 [Twitter]: https://www.twitter.com/@SabitK
 [Linked-in]: https://www.linkedin.com/in/sabit-kondak%C3%A7%C4%B1
