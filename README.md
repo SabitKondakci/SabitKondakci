@@ -6,7 +6,7 @@ I graduated from university, bachelor of engineering physics in 2015, later deci
 
 ## 📈 Stats
 
-[![Language Stats](https://github-readme-stats.vercel.app/api/wakatime?username=SabitKondakci)](https://github.com/SabitKondakci/github-readme-stats)
+[![Language Stats](https://github-readme-stats.vercel.app/api/SabitKondakci?username=SabitKondakci)](https://github.com/SabitKondakci/github-readme-stats)
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SabitKondakci&show_icons=true&theme=dark&layout=compact)](https://github.com/SabitKondakci/github-readme-stats)
 
