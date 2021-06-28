@@ -5,7 +5,7 @@ Merhaba, I've been spending my time on algorithms, math, physics, statistics sin
 I graduated from university, bachelor of engineering physics in 2015, later decided to proceed further with software, where I defined myself as full-stack developer which fits right in for my qualifications.
 
 ## 📈 Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SabitKondakci&show_icons=true&theme=dark&layout=compact&langs_count=8)](https://github.com/SabitKondakci/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SabitKondakci&show_icons=true&layout=compact&langs_count=8)](https://github.com/SabitKondakci/github-readme-stats)
 
 ## 🌱 Skills 
 
