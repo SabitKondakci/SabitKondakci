@@ -10,7 +10,7 @@ I graduated from university, bachelor of engineering physics in 2015, later deci
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SabitKondakci&show_icons=true&theme=dark&layout=compact)](https://github.com/SabitKondakci/github-readme-stats)
 
-## 🌱 Skills
+## 🌱 Skills 
 
 I've been working as a freelancer, both front-end & back-end in all sorts of programming languages, ranging from Fortran, Haskell to C# .Net, JavaScript etc. I therefore consider myself polyglot and "full-stack" I enjoy all parts of development, appreciate most programming languages and find the freedom to use
 the right tool for the job a liberating, creative and rewarding experience.
