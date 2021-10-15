@@ -2,17 +2,16 @@
 
 Merhaba, I've been spending my time on algorithms, math, physics, statistics since 2010, loving to be on my computer to design something newfangled and research for faster algorithms, data structures, effective memory management. I enjoy all parts of computer science especially data structures & algorithms which is the most essential topic in this field.
 
-I graduated from university, bachelor of engineering physics in 2015, later decided to proceed further with software, where I defined myself as full-stack developer which fits right in for my qualifications.
+I graduated from university, bachelor of engineering physics in 2015, later decided to proceed further with software, where I defined myself as backend developer which fits right in for my qualifications.
 
 ## 📈 Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SabitKondakci&show_icons=true&layout=compact&langs_count=8)](https://github.com/SabitKondakci/github-readme-stats)
 
 ## 🌱 Skills 
 
-I've been working as a freelancer, both front-end & back-end in all sorts of programming languages, ranging from Fortran to C# .Net, JavaScript etc. I therefore consider myself polyglot and "full-stack" I enjoy all parts of development, appreciate most programming languages and find the freedom to use
-the right tool for the job a liberating, creative and rewarding experience.
+I've been working as a back-end freelancer in all sorts of programming languages, ranging from Go to C# .Net, JavaScript etc. I enjoy all parts of development, appreciate most programming languages and find the freedom to use the right tool for the job a liberating, creative and rewarding experience.
 
-* C# .Net, Golang, JavaScript, TypeScript, Angular, Vue, Flutter
+* C# .Net, Golang, JavaScript, TypeScript, Vue
 * HTML5 & CSS3 , Bootstrap 5 ,JQuery
 * Resftul & GraphQL API
 * Rust, Vlang, Windows PowerShell
