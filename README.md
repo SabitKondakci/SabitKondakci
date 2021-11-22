@@ -20,7 +20,7 @@ I've been working as a back-end freelancer in all sorts of programming languages
 
 * I've been working on a Mail Integration&Sorting project which is currently in my private repository, I'll switch to public as soon as things get ready with CI-CD settings with Jenkins.
 
-## [][Books] Book Recommendations
+## [Books] Book Recommendations
 * [Essential COM **by Don Box**][Essential COM]
 * [Design Patterns **by Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides**][Design Patterns]
 * [Data Structures and Algorithms in Python **by Michael T. Goodrich, Roberto Tamassia, Michael H. Goldwasser**][Data Structures]
