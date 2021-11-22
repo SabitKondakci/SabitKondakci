@@ -1,13 +1,10 @@
-<div align="left">
-  <a href="https://github.com/SabitKondakci/DynamicProgramming"><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png?v8" alt="DeckDeckGo logo" height="80"></a>
 
-<p>
 Merhaba, I've been spending my time on algorithms, math, physics, statistics since 2010, loving to be on my computer to design something newfangled and research for faster algorithms, data structures, effective memory management. I enjoy all parts of computer science especially computer architecture , data structures & algorithms which is the most essential topic in this field.
 
 I graduated from university, bachelor of engineering physics in 2015, later decided to proceed further with software, where I defined myself as backend developer which fits right in for my qualifications.
-</p>
+
  
-</div>
+
 
 ## 📈 Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SabitKondakci&show_icons=true&layout=compact&langs_count=8)](https://github.com/SabitKondakci/github-readme-stats)
