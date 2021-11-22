@@ -1,5 +1,3 @@
-# Sabit Kondakçı
-
 Merhaba, I've been spending my time on algorithms, math, physics, statistics since 2010, loving to be on my computer to design something newfangled and research for faster algorithms, data structures, effective memory management. I enjoy all parts of computer science especially computer architecture , data structures & algorithms which is the most essential topic in this field.
 
 I graduated from university, bachelor of engineering physics in 2015, later decided to proceed further with software, where I defined myself as backend developer which fits right in for my qualifications.
@@ -20,7 +18,7 @@ I've been working as a back-end freelancer in all sorts of programming languages
 
 * I've been working on a Mail Integration&Sorting project which is currently in my private repository, I'll switch to public as soon as things get ready with CI-CD settings with Jenkins.
 
-## (https://github.githubassets.com/images/icons/emoji/unicode/1f4da.png?v8) Book Recommendations
+## 📚 Book Recommendations
 * [Essential COM **by Don Box**][Essential COM]
 * [Design Patterns **by Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides**][Design Patterns]
 * [Data Structures and Algorithms in Python **by Michael T. Goodrich, Roberto Tamassia, Michael H. Goldwasser**][Data Structures]
