@@ -20,7 +20,7 @@ I've been working as a back-end freelancer in all sorts of programming languages
 
 * I've been working on a Mail Integration&Sorting project which is currently in my private repository, I'll switch to public as soon as things get ready with CI-CD settings with Jenkins.
 
-## [Books] Book Recommendations
+## (https://github.githubassets.com/images/icons/emoji/unicode/1f4da.png?v8) Book Recommendations
 * [Essential COM **by Don Box**][Essential COM]
 * [Design Patterns **by Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides**][Design Patterns]
 * [Data Structures and Algorithms in Python **by Michael T. Goodrich, Roberto Tamassia, Michael H. Goldwasser**][Data Structures]
@@ -30,7 +30,6 @@ I've been working as a back-end freelancer in all sorts of programming languages
 [Design Patterns]:https://www.amazon.com.tr/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612
 [Data Structures]:https://www.bookdepository.com/Data-Structures-and-Algorithms-in-Python-Michael-T.-Goodrich/9781118290279?redirected=true&utm_medium=Google&utm_campaign=Base4&utm_source=TR&utm_content=Data-Structures-and-Algorithms-in-Python&selectCurrency=TRY&w=AFD5AU9SYYG94XA8VRX7
 [Clean Code]:https://www.amazon.co.uk/Clean-Code-Handbook-Software-Craftsmanship-ebook/dp/B001GSTOAM
-[Books]:https://github.githubassets.com/images/icons/emoji/unicode/1f4da.png?v8
 
 ## 📫 Get in touch
 
