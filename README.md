@@ -14,8 +14,9 @@ I graduated from university, bachelor of engineering physics in 2015, later deci
 I've been working as a back-end freelancer in all sorts of programming languages, ranging from Go to C# .Net, JavaScript etc. I enjoy all parts of development, appreciate most programming languages and find the freedom to use the right tool for the job a liberating, creative and rewarding experience.
 
 * C# .Net, JavaScript, TypeScript, Vue
-* HTML5 & CSS3 , Bootstrap 5 ,JQuery
+* HTML5 & CSS3, Bootstrap 5, Tailwind
 * Resftul & GraphQL API
+* Docker & Kubernetes
 * Golang, Vlang, Windows PowerShell
 
 ## 🔭 Projects
