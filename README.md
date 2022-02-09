@@ -15,7 +15,7 @@ I graduated from university, bachelor of engineering physics in 2015, later deci
 * HTML5 & CSS3, Bootstrap 5, Tailwind
 * Resftul API & gRPC
 * Docker & Kubernetes
-* Golang, Vlang, Windows PowerShell
+* Golang, Vlang, Windows PowerShell, Ubuntu Bash
 
 
 ## 📚 Book Recommendations
