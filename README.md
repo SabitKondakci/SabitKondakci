@@ -11,11 +11,11 @@ I graduated from university, bachelor of engineering physics in 2015, later deci
 
 ## 🌱 Skills 
 
-* C# .Net, JavaScript, TypeScript, Vue
+* C# .NET, Golang, Vlang, Vue.js
 * HTML5 & CSS3, Bootstrap 5, Tailwind
 * Resftul API & gRPC
 * Docker & Kubernetes
-* Golang, Vlang, Windows PowerShell, Ubuntu Bash
+* Linux/Ubuntu Bash
 
 
 ## 📚 Book Recommendations
