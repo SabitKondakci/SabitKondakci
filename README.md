@@ -1,7 +1,7 @@
 
 Merhaba, I've been spending my time on algorithms, math, physics, statistics since 2010, loving to be on my computer to design something newfangled and research for faster algorithms, data structures, effective memory management. I enjoy all parts of computer science especially Computer Architecture, Data Structures & Algorithms, Networking & Communication. 
 
-I'a physics graduate but the years after I decided to spetialize in software.
+I'a physics graduate but as of early 2016 I decided to spetialize in software.
 
  
 
