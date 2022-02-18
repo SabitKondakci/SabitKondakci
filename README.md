@@ -14,7 +14,7 @@ I graduated from university, bachelor of engineering physics in 2015, later deci
 * C# .NET, Golang, Vlang, Vue.js
 * HTML5 & CSS3, Bootstrap 5, Tailwind
 * Resftul API & gRPC
-* Docker & Kubernetes
+* Podman, Docker & Kubernetes
 * Linux Bash & Vim
 
 
