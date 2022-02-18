@@ -15,7 +15,7 @@ I graduated from university, bachelor of engineering physics in 2015, later deci
 * HTML5 & CSS3, Bootstrap 5, Tailwind
 * Resftul API & gRPC
 * Docker & Kubernetes
-* Linux Bash
+* Linux Bash & Vim
 
 
 ## 📚 Book Recommendations
