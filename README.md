@@ -23,7 +23,7 @@ I'a physics graduate but as of early 2016 I decided to spetialize in software.
 * [Design Patterns **by Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides**][Design Patterns]
 * [Data Structures and Algorithms in Python **by Michael T. Goodrich, Roberto Tamassia, Michael H. Goldwasser**][Data Structures]
 * [Clean Code: A Handbook of Agile Software Craftsmanship  **by Robert C. Martin**][Clean Code]
-* [Modern Operating Systems 4th Edition **by Andrew Tanenbaum][Modern OS]
+* [Modern Operating Systems 4th Edition **by Andrew Tanenbaum**][Modern OS]
 
 [Essential COM]:https://books.google.com.tr/books/about/Essential_COM.html?id=kfRWvKSePmAC&redir_esc=y
 [Design Patterns]:https://www.amazon.com.tr/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612
