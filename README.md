@@ -11,7 +11,7 @@ I'a physics graduate but as of early 2016 I decided to spetialize in software.
 
 ## 🌱 Skills 
 
-* C# .NET, Golang, Vlang, Vue.js
+* C# .NET Web API, Golang, Vlang, Vue.js
 * HTML5 & CSS3, Bootstrap 5, Tailwind
 * Resftul API & gRPC
 * Podman, Docker & Kubernetes
