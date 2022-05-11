@@ -1,7 +1,7 @@
 
 Merhaba
 
-I've been spending my time on algorithms, math, physics, statistics since 2010, loving to be on my computer to design something newfangled and research for faster algorithms, data structures, effective memory management. I enjoy all parts of computer science especially Computer Architecture, Data Structures & Algorithms, Networking & Communication. 
+I've been spending my time on algorithms, math, physics, statistics since 2010, loving to be on my computer to design something newfangled and research for faster algorithms, data structures, effective memory management.
 
 I'm a physics graduate but as of early 2016 I decided to spetialize in software.
 
@@ -17,7 +17,7 @@ I'm a physics graduate but as of early 2016 I decided to spetialize in software.
 * C# .NET Web API, Golang, Vlang, Vue.js
 * HTML5 & CSS3, Bootstrap 5, Tailwind
 * Resftul API & gRPC
-* Podman, Docker & Kubernetes
+* Podman, Insomnia, Docker & Kubernetes
 * Linux Bash & Vim
 
 
