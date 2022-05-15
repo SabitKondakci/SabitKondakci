@@ -1,12 +1,5 @@
 
-Merhaba
-
-I've been spending my time on algorithms, math, physics, statistics since 2010, loving to be on my computer to design something newfangled and research for faster algorithms, data structures, effective memory management.
-
-I'm a physics graduate but as of early 2016 I decided to spetialize in software.
-
-
- 
+Merhaba 🍄
 
 
 ## 📈 Stats
