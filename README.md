@@ -5,15 +5,6 @@ Merhaba 🍄
 ## 📈 Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SabitKondakci&show_icons=true&layout=compact&langs_count=8)](https://github.com/SabitKondakci/github-readme-stats)
 
-## 🌱 Skills 
-
-* C# .NET Web API, Golang, Vlang, Vue.js
-* HTML5 & CSS3, Bootstrap 5, Tailwind
-* Resftul API & gRPC
-* Podman, Insomnia, Docker & Kubernetes
-* Linux Bash & Vim
-
-
 ## 📚 Book Recommendations
 * [Essential COM **by Don Box**][Essential COM]
 * [Design Patterns **by Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides**][Design Patterns]
