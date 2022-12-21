@@ -1,10 +1,6 @@
 
 ### 🍄 Merhaba 
 
-
-## 📈 Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SabitKondakci&show_icons=true&layout=compact&langs_count=8)](https://github.com/SabitKondakci/github-readme-stats)
-
 ## 📚 Book Recommendations
 * [Essential COM **by Don Box**][Essential COM]
 * [Design Patterns **by Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides**][Design Patterns]
